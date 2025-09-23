@@ -19,9 +19,6 @@ Hey, I’m Anarv Vasavada.<br><br>I focus on building systems that think for the
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 😜 Random Dev Meme
-![Jokes Card](https://readme-jokes.vercel.app/api)
-
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Anarv2104&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
