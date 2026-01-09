@@ -24,5 +24,3 @@ Hey, I’m Anarv Vasavada.<br><br>I focus on building systems that think for the
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Anarv2104&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
