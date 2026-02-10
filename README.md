@@ -1,15 +1,5 @@
-╔══════════════════════════════════════════════════════════════════════╗
-║                                                                      ║
-║   █████╗ ███╗   ██╗ █████╗ ██████╗ ██╗   ██╗                         ║
-║  ██╔══██╗████╗  ██║██╔══██╗██╔══██╗██║   ██║                         ║
-║  ███████║██╔██╗ ██║███████║██████╔╝██║   ██║                         ║
-║  ██╔══██║██║╚██╗██║██╔══██║██╔══██╗╚██╗ ██╔╝                         ║
-║  ██║  ██║██║ ╚████║██║  ██║██║  ██║ ╚████╔╝                          ║
-║  ╚═╝  ╚═╝╚═╝  ╚═══╝╚═╝  ╚═╝╚═╝  ╚═╝  ╚═══╝                           ║
-║                                                                      ║
-║        Building AI infrastructure, not AI toys                       ║
-║                                                                      ║
-╚══════════════════════════════════════════════════════════════════════╝
+# 💫 About Me:
+Hey, I’m Anarv Vasavada.<br><br>I focus on building systems that think for themselves.<br>My work combines AI, system design, and backend engineering—always with an eye on real-world application and long-term impact.<br><br>Think bigger. Then break it.<br>I design autonomous AI systems that don’t wait for instructions.<br>AI will outthink us. I’m making sure it happens on my terms.<br><br>I value clean architecture, performance-first coding, and designing solutions that don’t need constant supervision.<br>Less noise, more execution.
 
 
 ## 🌐 Socials:
