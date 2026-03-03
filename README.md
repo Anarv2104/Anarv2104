@@ -2,14 +2,13 @@
 
 # Anarv Vasavada
 
-**I operate where intelligence meets control. I don't follow it — I redesign it.**
+**I operate where intelligence meets control. I don't follow it. I redesign it.**
 
-Systems engineer building autonomous AI infrastructure, multi-agent orchestration, and decentralized trust layers.<br/>
-If it thinks, coordinates, or scales — I'm probably working on it.
+I build autonomous systems designed to scale without supervision and operate without excuses.
+Intelligence, coordination, and trust engineered from first principles.
 
 <br/>
 
-[![Profile Views](https://komarev.com/ghpvc/?username=Anarv2104&label=Profile%20Views&color=0e75b6&style=for-the-badge)](https://github.com/Anarv2104)&nbsp;
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://anarvvasavada.vercel.app/)&nbsp;
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/anarvvasavada)&nbsp;
 [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/AnarvVasavada)&nbsp;
@@ -213,8 +212,15 @@ The biggest misconception in modern LLM systems.
 </table>
 
 <p>
-  <img src="https://img.shields.io/badge/Computer%20Vision-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" height="30"/>
-  <img src="https://img.shields.io/badge/Decentralized%20AI-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white" height="30"/>
+<img src="https://img.shields.io/badge/Multi--Agent%20AI-0A192F?style=for-the-badge&logo=openai&logoColor=white" height="30"/>
+<img src="https://img.shields.io/badge/AI%20Infrastructure-003366?style=for-the-badge&logo=databricks&logoColor=white" height="30"/>
+<img src="https://img.shields.io/badge/AI%20Security-1F1F1F?style=for-the-badge&logo=shield&logoColor=white" height="30"/>
+<img src="https://img.shields.io/badge/AI%20Research-8B0000?style=for-the-badge&logo=ieee&logoColor=white" height="30"/>
+<img src="https://img.shields.io/badge/Distributed%20Systems-2C3E50?style=for-the-badge&logo=apachekafka&logoColor=white" height="30"/>
+<img src="https://img.shields.io/badge/Computer%20Vision-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" height="30"/>
+<img src="https://img.shields.io/badge/Edge%20AI-76B900?style=for-the-badge&logo=nvidia&logoColor=black" height="30"/>
+<img src="https://img.shields.io/badge/AI%20Identity-412991?style=for-the-badge&logo=auth0&logoColor=white" height="30"/>
+<img src="https://img.shields.io/badge/AI%20Evaluation-4B0082?style=for-the-badge&logo=academia&logoColor=white" height="30"/>
 </p>
 
 ---
@@ -283,9 +289,9 @@ The biggest misconception in modern LLM systems.
 
 <div align="center">
 
-`AI/ML Internships` · `Research Collaborations` · `Startup Co-founding` · `Consulting` · `Full-time Roles`
+`Startup Co-founding` · `Full-time Roles` · `Research Collaborations` · `Consulting` · `AI Systems Internships`
 
-If you're building something ambitious in AI infrastructure or agent systems — let's talk.
+If you’re building something ambitious in AI or intelligent systems, let’s build something that scales.
 
 [![Email](https://img.shields.io/badge/anarv.work@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anarv.work@gmail.com)&nbsp;
 [![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/anarvvasavada)&nbsp;
