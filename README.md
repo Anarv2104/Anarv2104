@@ -18,6 +18,7 @@ Intelligence, coordination, and trust engineered from first principles.
 </div>
 
 ---
+<br/>
 
 ## Selected Work
 
@@ -75,20 +76,19 @@ Decentralized application mapping and visualization platform.
 </tr>
 </table>
 
-<br/>
-
 ---
-
+<br/>
 
 ## Builder Story
 
 I started by asking a simple question: *what happens when AI systems stop being tools and start being participants?*
 
-That led me from building full-stack apps to designing multi-agent infrastructure, systems where autonomous agents coordinate, negotiate, and self-govern. I published TraceIQ as an open-source package, architected Octopus for agent orchestration, and built Orynth to give AI systems verifiable identity.
+That led me from building full-stack apps to designing multi-agent infrastructure, systems where autonomous agents coordinate, negotiate, and self-govern. I published Inflion as an open-source package, architected Octopus for agent orchestration, and built Orynth to give AI systems verifiable identity.
 
 I'm not here to fine-tune models. I'm here to build the scaffolding that makes intelligence operational at scale.
 
 ---
+<br/>
 
 ## Current Focus
 
@@ -99,6 +99,7 @@ I'm not here to fine-tune models. I'm here to build the scaffolding that makes i
 > **Founder Mode** — shipping production systems, not prototypes
 
 ---
+<br/>
 
 ## Writing on AI Systems & Multi-Agent Infrastructure
 
@@ -148,6 +149,7 @@ The biggest misconception in modern LLM systems.
 </div>
 
 ---
+<br/>
 
 <!-- What I Engineer -->
 <h2>What I Engineer</h2>
@@ -209,6 +211,7 @@ The biggest misconception in modern LLM systems.
 </p>
 
 ---
+<br/>
 
 ## Tech Stack
 
@@ -264,9 +267,9 @@ The biggest misconception in modern LLM systems.
 </tr>
 </table>
 
-<br/>
-
 ---
+
+<br/>
 
 ## Open To
 
