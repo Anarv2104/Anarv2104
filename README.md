@@ -17,11 +17,7 @@ Intelligence, coordination, and trust engineered from first principles.
 
 </div>
 
-<br/>
-
 ---
-
-<br/>
 
 ## Selected Work
 
@@ -83,21 +79,16 @@ Decentralized application mapping and visualization platform.
 
 ---
 
-<br/>
 
 ## Builder Story
 
 I started by asking a simple question: *what happens when AI systems stop being tools and start being participants?*
 
-That led me from building full-stack apps to designing multi-agent infrastructure — systems where autonomous agents coordinate, negotiate, and self-govern. I published TraceIQ as an open-source package, architected Octopus for agent orchestration, and built Orynth to give AI systems verifiable identity.
+That led me from building full-stack apps to designing multi-agent infrastructure, systems where autonomous agents coordinate, negotiate, and self-govern. I published TraceIQ as an open-source package, architected Octopus for agent orchestration, and built Orynth to give AI systems verifiable identity.
 
 I'm not here to fine-tune models. I'm here to build the scaffolding that makes intelligence operational at scale.
 
-<br/>
-
 ---
-
-<br/>
 
 ## Current Focus
 
@@ -107,15 +98,11 @@ I'm not here to fine-tune models. I'm here to build the scaffolding that makes i
 >
 > **Founder Mode** — shipping production systems, not prototypes
 
-<br/>
-
 ---
-
-<br/>
 
 ## Writing on AI Systems & Multi-Agent Infrastructure
 
-<i>Essays on building real AI systems — reliability, coordination, memory, and the future of autonomous agents.</i>
+<i>Essays on building real AI systems reliability, coordination, memory, and the future of autonomous agents.</i>
 
 <table>
 <tr>
@@ -159,8 +146,6 @@ The biggest misconception in modern LLM systems.
 [![Read All Essays](https://img.shields.io/badge/Read_All_on_Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@anarv_vasavada)
 
 </div>
-
-<br/>
 
 ---
 
@@ -283,8 +268,6 @@ The biggest misconception in modern LLM systems.
 
 ---
 
-<br/>
-
 ## Open To
 
 <div align="center">
@@ -298,8 +281,6 @@ If you’re building something ambitious in AI or intelligent systems, let’s b
 [![Buy Me a Coffee](https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/anarvvasavada)
 
 </div>
-
-<br/>
 
 ---
 
