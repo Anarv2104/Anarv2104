@@ -29,8 +29,8 @@ Intelligence, coordination, and trust engineered from first principles.
 <tr>
 <td width="50%" valign="top">
 
-### [TraceIQ](https://github.com/Anarv2104/TraceIQ)
-AI influence tracing — maps how ideas propagate across agent networks. Published as an [open-source PyPI package](https://pypi.org/project/traceiq/).
+### [Inflion](https://github.com/Anarv2104/Inflion)
+Observability and influence tracing infrastructure for multi-agent AI systems as it analyzes how information propagates across agent networks, quantifies influence, and surfaces systemic risks. Published as an [open-source PyPI package](https://pypi.org/project/inflion/).
 <br/><br/>
 `Python` `Graph Analysis` `NLP`
 
